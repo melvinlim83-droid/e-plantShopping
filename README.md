@@ -1,5 +1,5 @@
 # 🌿 E‑Plant Shopping — Paradise Nursery  
-A simple, elegant, and responsive plant shopping webpage built with HTML, CSS, and JavaScript.
+A simple, elegant, and responsive plant shopping webpage built with HTML, CSS, JavaScript, React and Redux.
 
 Live Demo: **https://melvinlim83-droid.github.io/e-plantShopping/**
 
@@ -9,18 +9,10 @@ The site is designed to be visually appealing, easy to navigate, and beginner‑
 
 The categories include:
 - ✅ Air‑Purifying Plants  
-- ✅ Aromatic & Fragrant Plants  
+- ✅ Aromatic Fragrant Plants  
 - ✅ Insect‑Repellent Plants  
 - ✅ Medicinal Plants  
 - ✅ Low‑Maintenance Plants  
-
-## ✨ Features
-- 🌿 Clean and modern UI  
-- 📱 Fully responsive layout  
-- 🖼️ High‑quality plant images  
-- 🛒 Add‑to‑cart button design
-- 📦 Organized plant categories  
-- 🎨 Soft, nature‑inspired color palette  
 
 ## 🧱 Tech Stack
 | Technology | Purpose |
@@ -28,7 +20,7 @@ The categories include:
 | **HTML5** | Structure of the webpage |
 | **CSS3**  | Styling, layout, responsiveness |
 | **JavaScript** | Basic interactivity |
-| **React** | Interactive web page |
+| **React** | Dynamic interaction |
 | **Redux** | State management |
 
 ## 🚀 Installation Procedure
